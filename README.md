@@ -1,5 +1,5 @@
-# Fork for Ubuntu 20.04.6
-Fixed minor changes in order to make it compile on Ubuntu 20.04.6 with OpenCV 4
+# Fork for ROS Noetic
+Fixed minor changes in order to make it compile on Noetic in Ubuntu 20.04.6 with OpenCV 4
 
 # Traversability Mapping and Motion Planning
 
